@@ -35,7 +35,7 @@ Swiggy Chatbot is a chatbot that assists users with various food-related queries
     ```sh
     python -m venv chainlitbot
     source chainlitbot/Scripts/activate  # On Windows
-    # source chainlitbot/bin/activate  # On Unix or MacOS
+    source chainlitbot/bin/activate  # On Unix or MacOS
     ```
 
 3. Install the required packages:
@@ -70,6 +70,16 @@ Swiggy Chatbot is a chatbot that assists users with various food-related queries
 - 🍲 Provides recipes and cooking techniques.
 - ❓ Answers food-related queries.
 - 🔧 Easy to use and extend.
+
+## 📸 Screenshots
+
+Here are some screenshots of the Swiggy Chatbot:
+
+![Screenshot 1](chatbot.png/SS_01.png)
+![Screenshot 2](chatbot.png/SS_02.png)
+![Screenshot 3](chatbot.png/SS_03.png)
+![Screenshot 4](chatbot.png/SS_04.png)
+![Screenshot 5](chatbot.png/SS_05.png)
 
 ## 🤝 Contributing
 
