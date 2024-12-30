@@ -7,6 +7,7 @@ A chatbot designed to help users with food-related queries and recipes using Cha
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
