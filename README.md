@@ -97,6 +97,8 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+---
+
 ## 📫 Contact
 
 Rakesh Joshi - rakeshgjoshi4@gmail.com
