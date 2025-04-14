@@ -7,6 +7,7 @@ A chatbot designed to help users with food-related queries and recipes using Cha
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -96,8 +97,4 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 📫 Contact
-
-Rakesh Joshi - rakeshgjoshi4@gmail.com
-
-Project Link: [https://github.com/rakeshjoshi4/chainlit-foodie-bot](https://github.com/rakeshjoshi4/chainlit-foodie-bot)
+---
