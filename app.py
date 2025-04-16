@@ -3,7 +3,7 @@ from src.llm import ask_order, messages
 
 # Set the default language to English
 cl.config = {
-    "default_language": "en"
+    "default_language": "en-US"
 }
 
 @cl.on_message
