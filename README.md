@@ -110,7 +110,7 @@ Below is a step-by-step walkthrough of FoodieBot in action:
 *The user starts placing an order, and the bot summarizes the initial items.*
 
 ### Order Placement (Step 2)
-![Order Placement 2](screenshotsorder_placement_02.png)
+![Order Placement 2](screenshots/order_placement_02.png)
 *The user modifies the order, and the bot updates the summary and total.*
 
 ### Delivery Details
